@@ -1,1 +1,14 @@
-/* Add CSS Styling */
+#esp1 {
+    background-color: #000;
+    color: #fff;
+}
+
+#esp2 {
+    background-color: #ffff00;
+
+}
+
+.convinado {
+    font-size: 28px;
+    font-family: Helvetica, Time New Roman, sans-serif;
+}
